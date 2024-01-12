@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faraz186" alt="faraz186" /></a> </p>
 
-- 🔭 I’m currently working on **ReactJS**
+- 🔭 I’m currently working on **ReactJS, NextJS & React Native**
 
-- 🌱 I’m currently learning **NextJS, React Native**
+- 🌱 I’m currently learning **Blockchain**
 
 - 💬 Ask me about **react, html, css, firebase, react native, nodejs, mongodb**
 
