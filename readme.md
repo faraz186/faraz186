@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ReactJS, NextJS & React Native**
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Blockchain From Jawan Pakistan**
 
 - 💬 Ask me about **react, html, css, firebase, react native, nodejs, mongodb**
 
