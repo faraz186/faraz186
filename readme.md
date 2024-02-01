@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, html, css, firebase, react native, nodejs, mongodb**
 
-- 📫 How to reach me **farazmohammad190@gmail.com**
+- 📫 How to reach me **farazmohammad2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
