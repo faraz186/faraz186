@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ReactJS, NextJS & React Native**
 
-- 🌱 I’m currently learning **Cloud Native Generative AI**
+- 🌱 I’m currently learning **NestJS & NuxtJS**
 
 - 💬 Ask me about **react, html, css, firebase, react native, nodejs, mongodb**
 
