@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faraz186&label=Profile%20views&color=0e75b6&style=flat" alt="faraz186" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=faraz186](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat)" alt="faraz186" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat" alt="faraz186" /></a> </p>
 
 - 🔭 I’m currently working on **ReactJS, NextJS & React Native**
 
