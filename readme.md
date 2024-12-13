@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?faraz186=ryo-ma&theme=flat" alt="faraz186" /></a> </p>
 
-- 🔭 I’m currently working on **ReactJS, NextJS & React Native**
+- 🔭 I’m currently working on **ReactJS, NextJS & React Native**   
 
 - 🌱 I’m currently learning **NestJS & NuxtJS**
 
