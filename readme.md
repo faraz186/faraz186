@@ -1,5 +1,5 @@
 <h1 align="center">Assalam-o-Alaikum 👋, I'm Muhammad Faraz</h1>
-<h3 align="center">I'm a MERN-Stack Developer passionate about building innovative driven by a passion for creating scalable, cutting-edge applications with a strong emphasis on user experience and user-friendly applications with a professional scalability..</h3>
+<h3 align="center">I'm a <b>MERN-Stack Developer</b> passionate about building innovative driven by a passion for creating scalable, cutting-edge applications with a strong emphasis on user experience and user-friendly applications with a professional scalability..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faraz186&label=Profile%20views&color=0e75b6&style=flat" alt="faraz186" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NestJS & NuxtJS**
 
-- 💬 Ask me about **react, html, css, firebase, react native, nodejs, mongodb**
+- 💬 Ask me about **react, html, css, firebase, react native, nodejs, mongodb, nextjs, typescript**
 
 - 📫 How to reach me **farazmohammad2001@gmail.com**
 
@@ -26,7 +26,3 @@
 
 <span>![faraz186's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faraz186&theme=gruvbox&show_icons=true&hide_border=false&layout=compact) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
 <span>![faraz186's Stats](https://github-readme-stats.vercel.app/api?username=faraz186&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)</span>
-
-<br />
-
-<span>[![GitHub Streak](https://streak-stats.demolab.com?user=faraz186&theme=dark&hide_border=true&border_radius=5.1)](https://git.io/streak-stats)</span>
