@@ -33,11 +33,11 @@
 <span>![faraz186's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faraz186&theme=gruvbox&show_icons=true&hide_border=false&layout=compact) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
 <span>![faraz186's Stats](https://github-readme-stats.vercel.app/api?username=faraz186&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)</span>
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=faraz186&theme=dark&hide_border=true" alt="GitHub Streak" /></a></span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=faraz186&theme=dark&hide_border=true" alt="GitHub Streak" /></a></span>
 
 
 <div>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stardev.io/developers/faraz186"><img alt="Check out faraz186's profile on stardev.io" src="https://stardev.io/developers/faraz186/badge/languages/global.svg" /></a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stardev.io/developers/faraz186"><img alt="Check out faraz186's profile on stardev.io" src="https://stardev.io/developers/faraz186/badge/languages/global.svg" /></a>
 </div>
 
 
