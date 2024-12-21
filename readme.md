@@ -1,3 +1,9 @@
+ <h3 align="center"> 
+  
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
+</h3>
+
 <h1 align="center">Assalam-o-Alaikum 👋, I'm Muhammad Faraz</h1>
 <h3 align="center">I'm a <b>MERN-Stack Developer</b> passionate about building innovative driven by a passion for creating scalable, cutting-edge applications with a strong emphasis on user experience and user-friendly applications with a professional scalability..</h3>
 
