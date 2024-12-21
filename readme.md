@@ -36,8 +36,8 @@
 <span> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=faraz186&theme=dark&hide_border=true" alt="GitHub Streak" /></a></span>
 
 
-<div style="text-align:center">
- <a href="https://stardev.io/developers/faraz186"><img alt="Check out faraz186's profile on stardev.io" src="https://stardev.io/developers/faraz186/badge/languages/global.svg" /></a>
+<div>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://stardev.io/developers/faraz186"><img alt="Check out faraz186's profile on stardev.io" src="https://stardev.io/developers/faraz186/badge/languages/global.svg" /></a>
 </div>
 
 
