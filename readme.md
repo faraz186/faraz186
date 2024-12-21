@@ -34,3 +34,8 @@
 <span>![faraz186's Stats](https://github-readme-stats.vercel.app/api?username=faraz186&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)</span>
 
 <span> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=faraz186&theme=dark&hide_border=true" alt="GitHub Streak" /></a></span>
+<h3 align="center">
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</h3>
