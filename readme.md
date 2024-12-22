@@ -1,4 +1,7 @@
- <h3 align="center"> 
+[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/faraz186)
+
+
+<h3 align="center"> 
   
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
