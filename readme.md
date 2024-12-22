@@ -32,7 +32,7 @@
 
 <br />
 
-<h2>4<sup>th</sup> Position Rank Contribution in Pakistan:</h2>
+<h2>4<sup>th</sup> Position Rank Contributer in Pakistan:</h2>
 <br />
 
 ![ranking](https://github.com/user-attachments/assets/df51baca-3c14-4e69-a3a0-faa37917d31b)
