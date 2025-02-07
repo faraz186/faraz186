@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faraz186&theme=dark" alt="faraz186" /></a> </p>
 
-- 🔭 I’m currently working on **ReactJS, NextJS & React Native**   
+- 🔭 I’m currently working on **ReactJS & React Native**   
 
-- 🌱 I’m currently learning **NestJS & NuxtJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **react, html, css, firebase, react native, nodejs, mongodb, nextjs, typescript**
 
