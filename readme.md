@@ -34,7 +34,7 @@
 
 <h2>2<sup>nd</sup> Position Rank Contributer in Pakistan:</h2>
 
-<img width="1119" height="293" alt="img" src="https://github.com/user-attachments/assets/8d9b9156-d491-4b28-9e9f-6210857e790f" />
+<img width="1123" height="293" alt="profile" src="https://github.com/user-attachments/assets/17ef8792-0733-4c25-be73-9b4f01b9cbf7" />
 
 <br />
 <br />
