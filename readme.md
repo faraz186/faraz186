@@ -5,7 +5,7 @@
 </h3>  
   
 <h1 align="center">Assalam-o-Alaikum 👋, I'm Muhammad Faraz</h1>
-<h3 align="center">I'm a <b>MERN Stack Developer</b>, also I secure 2<sup>nd</sup> Postion rank in Contributor all over Pakistan, along passionate about building innovative driven by a passion for creating scalable, cutting-edge applications with a strong emphasis on user experience and user-friendly applications with a professional scalability..</h3>     
+<h3 align="center">I’m a <b>SOC Analyst</b> and a <b>full-stack developer</b> specializing in MERN and React Native. I’ve completed my <b>Bachelor's degree in Computer Science</b> and have hands-on experience in both cybersecurity and modern web/mobile development. I enjoy solving complex problems and continuously learning new technologies to grow professionally. Also, I secure <b>2<sup>nd</sup> Position</b> in committers.top in all over Pakistan..</h3>     
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faraz186&label=Profile%20views&color=0e75b6&style=flat" alt="faraz186" /> </p>
 
