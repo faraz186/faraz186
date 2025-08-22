@@ -47,7 +47,7 @@
 
 
 <div>
-  <img src="[Microsoft HTML CSS Certificate.pdf](https://github.com/user-attachments/files/21942711/Microsoft.HTML.CSS.Certificate.pdf)"/>
+  <img src="https://github.com/user-attachments/files/21942711/Microsoft.HTML.CSS.Certificate.pdf"/>
     
 </div>
 
