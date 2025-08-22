@@ -47,8 +47,9 @@
 
 
 <div>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://stardev.io/developers/faraz186"><img alt="Check out faraz186's profile on stardev.io" src="https://stardev.io/developers/faraz186/badge/languages/global.svg" /></a>
+    [Microsoft HTML CSS Certificate.pdf](https://github.com/user-attachments/files/21942711/Microsoft.HTML.CSS.Certificate.pdf)
 </div>
+
 
 
 <h6 align="center">
