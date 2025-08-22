@@ -47,9 +47,27 @@
 
 
 <div>
-  <img src="https://github.com/user-attachments/files/21942711/Microsoft.HTML.CSS.Certificate.pdf"/>
+ <img width="793" height="606" alt="html css certificate" src="https://github.com/user-attachments/assets/7131ba11-32e6-4a5a-ad6a-34f8efcee47e" />
+
+ <br />
+    <img width="790" height="604" alt="cyber" src="https://github.com/user-attachments/assets/0d7d6fea-a060-4a32-bf75-6f7866462ce8" />
+
+ <br />
+<img width="841" height="595" alt="js" src="https://github.com/user-attachments/assets/35937af0-606e-42e6-9618-67fa3e175ca2" />
+
+
+ <br />
+<img width="899" height="635" alt="cyber 1" src="https://github.com/user-attachments/assets/c78de621-5264-4cb4-bd2e-3c1f8b696437" />
+
+ <br />
+<img width="899" height="596" alt="linux" src="https://github.com/user-attachments/assets/36e4999c-603f-4942-a13e-23894178ec34" />
+
+
+
     
 </div>
+
+
 
 
 
