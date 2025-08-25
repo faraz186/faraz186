@@ -57,10 +57,10 @@
 
 
  <br />
-<img width="899" height="635" alt="cyber 1" src="https://github.com/user-attachments/assets/c78de621-5264-4cb4-bd2e-3c1f8b696437" />
+<img width="841" height="595" alt="cyber 1" src="https://github.com/user-attachments/assets/c78de621-5264-4cb4-bd2e-3c1f8b696437" />
 
  <br />
-<img width="899" height="596" alt="linux" src="https://github.com/user-attachments/assets/36e4999c-603f-4942-a13e-23894178ec34" />
+<img width="841" height="595" alt="linux" src="https://github.com/user-attachments/assets/36e4999c-603f-4942-a13e-23894178ec34" />
 
 
 
