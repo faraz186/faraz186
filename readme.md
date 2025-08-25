@@ -47,10 +47,10 @@
 
 
 <div>
- <img width="793" height="606" alt="html css certificate" src="https://github.com/user-attachments/assets/7131ba11-32e6-4a5a-ad6a-34f8efcee47e" />
+ <img width="841" height="595" alt="html css certificate" src="https://github.com/user-attachments/assets/7131ba11-32e6-4a5a-ad6a-34f8efcee47e" />
 
  <br />
-    <img width="790" height="604" alt="cyber" src="https://github.com/user-attachments/assets/0d7d6fea-a060-4a32-bf75-6f7866462ce8" />
+    <img width="841" height="595" alt="cyber" src="https://github.com/user-attachments/assets/0d7d6fea-a060-4a32-bf75-6f7866462ce8" />
 
  <br />
 <img width="841" height="595" alt="js" src="https://github.com/user-attachments/assets/35937af0-606e-42e6-9618-67fa3e175ca2" />
