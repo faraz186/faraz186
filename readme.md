@@ -19,6 +19,8 @@
 
 - 📫 How to reach me **farazmohammad1900@gmail.com**
 
+- Follow and Subscribe me on Youtube https://www.youtube.com/@MuhammadFarazYousuf
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/m_faraz998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_faraz998" height="30" width="40" /></a>
