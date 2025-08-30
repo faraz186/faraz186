@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **farazmohammad1900@gmail.com**
 
-- Follow and Subscribe me on Youtube https://www.youtube.com/@MuhammadFarazYousuf
+- :yt: Like and Subscribe me on Youtube https://www.youtube.com/@MuhammadFarazYousuf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
