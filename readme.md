@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **farazmohammad1900@gmail.com**
 
-- <img width="30" height="30" alt="youtube" src="https://github.com/user-attachments/assets/eaae3137-fa7c-41f6-8324-b0d240fed304" /> Like and Subscribe me on Youtube https://www.youtube.com/@MuhammadFarazYousuf
+- <img width="28" height="29" alt="youtube" src="https://github.com/user-attachments/assets/eaae3137-fa7c-41f6-8324-b0d240fed304" /> Like and Subscribe me on Youtube https://www.youtube.com/@MuhammadFarazYousuf
 
 
 <h3 align="left">Connect with me:</h3>
