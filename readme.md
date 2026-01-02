@@ -52,14 +52,11 @@
 
 <div>
 
+<img width="841" height="560" alt="python cisco certification" src="https://github.com/user-attachments/assets/0135c5a0-5498-45b7-8e99-778be007c4f8" />
+
+ <br />
+
 <img width="841" height="595" alt="html css certificate" src="https://github.com/user-attachments/assets/7131ba11-32e6-4a5a-ad6a-34f8efcee47e" />
-
- <br />
-
-<img width="826" height="560" alt="python cisco certification" src="https://github.com/user-attachments/assets/0135c5a0-5498-45b7-8e99-778be007c4f8" />
-
- <br />
-    <img width="841" height="595" alt="cyber" src="https://github.com/user-attachments/assets/0d7d6fea-a060-4a32-bf75-6f7866462ce8" />
 
  <br />
 <img width="841" height="595" alt="js" src="https://github.com/user-attachments/assets/35937af0-606e-42e6-9618-67fa3e175ca2" />
