@@ -45,9 +45,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=faraz186&hide_longest_streak=true)](https://git.io/streak-stats)
 
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=faraz186&theme=dark&hide_border=true" alt="GitHub Streak" /></a></span>
-
-
 <div>
 
 <img width="841" height="560" alt="python cisco certification" src="https://github.com/user-attachments/assets/0135c5a0-5498-45b7-8e99-778be007c4f8" />
