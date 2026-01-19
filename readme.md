@@ -5,7 +5,7 @@
 </h3>  
   
 <h1 align="center">Assalam-o-Alaikum 👋, I'm Muhammad Faraz</h1>
-<h3 align="center">I’m a <b>SOC Analyst</b> and a <b>full-stack developer</b> specializing in MERN and React Native. I’ve completed my <b>Bachelor's degree in Computer Science</b> and have hands-on experience in both cybersecurity and modern web/mobile development. I enjoy solving complex problems and continuously learning new technologies to grow professionally. Also, I secure <b>2<sup>nd</sup> Position</b> in committers.top in all over Pakistan..</h3>     
+<h3 align="center">CS Graduate | MERN Stack Developer | React Native Developer. I am a results-driven Computer Science graduate currently honing my skills as an Engineering Intern at Jaffar Brothers. With a robust technical foundation validated by Microsoft certifications in HTML, CSS, JS, and Python, I specialize in building scalable web applications using state-of-the-art frontend and backend technologies. I am passionate about leveraging my expertise in Linux and modern development frameworks to solve complex engineering challenges also, I bring a well-rounded approach to solving digital challenges across multiple domains..</h3>     
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faraz186&label=Profile%20views&color=0e75b6&style=flat" alt="faraz186" /> </p>
 
