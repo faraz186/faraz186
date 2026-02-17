@@ -4,12 +4,9 @@
 
 </h3>  
   
-<h1 align="center">Assalam-o-Alaikum 👋, I'm Muhammad Faraz</h1>
-<h3 style="text-align:'justify'" align="center">CS Graduate | MERN Stack Developer | React Native Developer. I am a results-driven Computer Science graduate currently honing my skills as an Engineering Intern at Jaffar Brothers. With a robust technical foundation validated by Microsoft certifications in HTML, CSS, JS, and Python, I specialize in building scalable web applications using state-of-the-art frontend and backend technologies. I am passionate about leveraging my expertise in Linux and modern development frameworks to solve complex engineering challenges also, I bring a well-rounded approach to solving digital challenges across multiple domains..</h3>     
+<h1 align="center">Assalam-o-Alaikum 👋, I'm Muhammad Faraz</h1>     
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faraz186&label=Profile%20views&color=0e75b6&style=flat" alt="faraz186" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faraz186&theme=dark" alt="faraz186" /></a> </p>
 
 - 🔭 I’m currently working on **ReactJS & React Native**   
 
