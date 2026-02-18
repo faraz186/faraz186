@@ -8,7 +8,7 @@
    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faraz186&label=Profile%20views&color=0e75b6&style=flat" alt="faraz186" /> </p>
 
-- 🔭 I’m currently working on **ReactJS & React Native**   
+- 🔭 I’m currently working on **Huawei-Ufone Projects | ReactJS & Mobile App Development**   
 
 - 🌱 I’m currently learning **NextJS**
 
